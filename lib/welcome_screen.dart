@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:zorbalik/deneme.dart';
 import 'package:zorbalik/reading_peage.dart';
 import 'core/rounded_button.dart';
 
@@ -29,7 +30,7 @@ class WelcomeScreen extends StatelessWidget {
             SizedBox(
               width: MediaQuery.of(context).size.width * .6,
               child: RoundedButton(
-                text: "start reading",
+                text: "Hadi Okuyalım!",
                 fontSize: 20,
                 press: () {
                   Navigator.push(
@@ -53,7 +54,7 @@ class WelcomeScreen extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                       builder: (context) {
-                        return ReadPage();
+                        return MyApp();
                       },
                     ),
                   );
