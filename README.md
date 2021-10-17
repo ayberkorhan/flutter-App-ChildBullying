@@ -1,16 +1,4 @@
-# zorbalik
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2021-10-17 133754](https://user-images.githubusercontent.com/48190401/137640784-06a955e0-9d05-4ed5-9aa2-dd683f379351.png)
+![Ekran görüntüsü 2021-10-17 133832](https://user-images.githubusercontent.com/48190401/137640813-00001df2-2730-489b-bf7d-5224ed88f389.png)
+![Ekran görüntüsü 2021-10-17 133905](https://user-images.githubusercontent.com/48190401/137640821-2b097723-e2bb-4866-9217-fe05cdddaa07.png)
+![Ekran görüntüsü 2021-10-17 133816](https://user-images.githubusercontent.com/48190401/137640826-2c711950-09b6-4206-88b6-acf5e0447635.png)
